@@ -1,1 +1,2 @@
-# tensorflow_NTM
+This is an experiment in generating music with a recurrent neural network. In its current state it's really bad. Some of the generated music is interesting in how dissonant and creepy it is, but I think there are some issues in how it's training. It's very unstable and seems to get worse over time when trained on multiple songs. 
+I'll probably come back to this at some point when I'm more familiar with PyTorch, or with a different ML package entirely.
